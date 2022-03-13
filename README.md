@@ -172,11 +172,11 @@ id sem consectetuer libero luctus adipiscing.
 
 Картинка без `alt` текста
 
-![](//placehold.it/150x100)
+![](image/cot.jpg)
 
 Картинка с альтом и тайтлом:
 
-![Alt text](//placehold.it/150x100 "Можно задать title")
+![Alt text](image/krul%20cepesh%20ava.jpg "Можно задать title")
 
 Запомнить просто: синтаксис как у ссылок, только перед открывающей квадратной скобкой ставится восклицательный знак.
 
@@ -186,13 +186,13 @@ id sem consectetuer libero luctus adipiscing.
 ![Картинка][image2]
 ![Картинка][image3]
 
-[image1]: //placehold.it/250x100
-[image2]: //placehold.it/200x100
-[image3]: //placehold.it/150x100
+[image1]: image/cot.jpg
+[image2]: image/krul%20cepesh%20ava.jpg
+[image3]: cot.jpg
 
 Картинки-ссылки:
 
-[![Alt text](//placehold.it/150x100)](http://example.com/)
+[![Alt text](image/cot.jpg)](http://vk.com/)
 
 
 ## Использование HTML внутри Markdown
